@@ -7,3 +7,28 @@ h1 {
 	font-family: 'Russo One', sans-serif;
 	font-size: 60px;
 }
+
+.photo {
+	float: left;
+	width: 22.5%;
+	height: 300px;
+	margin: 1.25%;
+	background-size: cover;
+	background-position: center;
+}
+
+.image1 {
+	background-image: url(zumba.jpg);
+}
+
+.image2 {
+	background-image: url(22988.jpeg);
+}
+
+.image3 {
+	background-image: url(23035.jpeg);
+}
+
+.image4 {
+	background-image: url(yoga.jpg);
+}
