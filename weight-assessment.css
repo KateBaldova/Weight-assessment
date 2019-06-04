@@ -32,3 +32,8 @@ h1 {
 .image4 {
 	background-image: url(yoga.jpg);
 }
+
+hr {
+	margin-left: 1.25%;
+	width: 97.5%;
+}
