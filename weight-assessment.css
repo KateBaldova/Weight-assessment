@@ -34,6 +34,10 @@ h1 {
 }
 
 hr {
+    margin-left: 1.25%;
+	width: 97.5%;
+}
+p {
 	margin-left: 1.25%;
 	width: 97.5%;
 }
