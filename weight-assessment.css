@@ -36,6 +36,10 @@ h1 {
 hr {
     margin-left: 1.25%;
 	width: 97.5%;
+	background-color: #a14a22;
+	border: none;
+	color: #a14a22;
+	height: 2px;
 }
 p {
 	margin-left: 1.25%;
